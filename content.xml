@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260531213246ZBPKRC</value>
+    <value>202606011711212K9B77</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260531213246REJ24C</value>
+    <value>20260601171121C588IP</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -56,7 +56,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1780255768766</value>
+    <value>1780326300454</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -89,7 +89,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mpu6biil-4gth7tuxh</odePageId>
+  <odePageId>page-mpvcb939-t4bv7s8z0</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>¿Somos dueños de nuestro tiempo libre?</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -125,7 +125,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpu6biil-4gth7tuxh</odePageId>
+      <odePageId>page-mpvcb939-t4bv7s8z0</odePageId>
       <odeBlockId>block-mps7hwjl-s9fgnvijb</odeBlockId>
       <blockName>Introducción</blockName>
       <iconName></iconName>
@@ -154,7 +154,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biil-4gth7tuxh</odePageId>
+          <odePageId>page-mpvcb939-t4bv7s8z0</odePageId>
           <odeBlockId>block-mps7hwjl-s9fgnvijb</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjl-aws8dndp1</odeIdeviceId>
           <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
@@ -217,7 +217,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpu6biio-6ii4fg14v</odePageId>
+  <odePageId>page-mpvcb93b-z46xkby8f</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Secuencia competencial</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
@@ -253,7 +253,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpu6biio-6ii4fg14v</odePageId>
+      <odePageId>page-mpvcb93b-z46xkby8f</odePageId>
       <odeBlockId>block-mps7hwjm-g2gywjx4h</odeBlockId>
       <blockName>Introducción</blockName>
       <iconName></iconName>
@@ -282,7 +282,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biio-6ii4fg14v</odePageId>
+          <odePageId>page-mpvcb93b-z46xkby8f</odePageId>
           <odeBlockId>block-mps7hwjm-g2gywjx4h</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjm-b9zcvd0hl</odeIdeviceId>
           <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
@@ -330,8 +330,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpu6biio-55qqib2s0</odePageId>
-  <odeParentPageId>page-mpu6biio-6ii4fg14v</odeParentPageId>
+  <odePageId>page-mpvcb93b-rbzh74y7i</odePageId>
+  <odeParentPageId>page-mpvcb93b-z46xkby8f</odeParentPageId>
   <pageName>¿Por dónde empezamos?</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -366,7 +366,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpu6biio-55qqib2s0</odePageId>
+      <odePageId>page-mpvcb93b-rbzh74y7i</odePageId>
       <odeBlockId>block-mps7hwjm-vqp0b0fzv</odeBlockId>
       <blockName>¿Qué vamos a investigar?</blockName>
       <iconName></iconName>
@@ -395,7 +395,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biio-55qqib2s0</odePageId>
+          <odePageId>page-mpvcb93b-rbzh74y7i</odePageId>
           <odeBlockId>block-mps7hwjm-vqp0b0fzv</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjm-n9r6r6c74</odeIdeviceId>
           <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
@@ -443,7 +443,7 @@ A menudo pensamos que dedicar muchas horas a hacer deporte o ir al gimnasio nos 
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpu6biio-55qqib2s0</odePageId>
+      <odePageId>page-mpvcb93b-rbzh74y7i</odePageId>
       <odeBlockId>block-mps7hwjm-jdgv92awu</odeBlockId>
       <blockName>Arranca nuestra investigación</blockName>
       <iconName>atom</iconName>
@@ -472,7 +472,7 @@ A menudo pensamos que dedicar muchas horas a hacer deporte o ir al gimnasio nos 
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biio-55qqib2s0</odePageId>
+          <odePageId>page-mpvcb93b-rbzh74y7i</odePageId>
           <odeBlockId>block-mps7hwjm-jdgv92awu</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjm-preo20roz</odeIdeviceId>
           <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
@@ -554,7 +554,7 @@ A menudo pensamos que dedicar muchas horas a hacer deporte o ir al gimnasio nos 
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpu6biio-55qqib2s0</odePageId>
+      <odePageId>page-mpvcb93b-rbzh74y7i</odePageId>
       <odeBlockId>block-mps7hwjm-u4seulf0a</odeBlockId>
       <blockName>Recursos y evaluación de los aprendizajes</blockName>
       <iconName></iconName>
@@ -583,7 +583,7 @@ A menudo pensamos que dedicar muchas horas a hacer deporte o ir al gimnasio nos 
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biio-55qqib2s0</odePageId>
+          <odePageId>page-mpvcb93b-rbzh74y7i</odePageId>
           <odeBlockId>block-mps7hwjm-u4seulf0a</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjm-uhc6uul8t</odeIdeviceId>
           <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
@@ -638,8 +638,8 @@ A menudo pensamos que dedicar muchas horas a hacer deporte o ir al gimnasio nos 
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpu6biiq-d20rlejtw</odePageId>
-  <odeParentPageId>page-mpu6biio-6ii4fg14v</odeParentPageId>
+  <odePageId>page-mpvcb93d-l0ugt979j</odePageId>
+  <odeParentPageId>page-mpvcb93b-z46xkby8f</odeParentPageId>
   <pageName>Recogiendo nuestros datos</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -674,7 +674,7 @@ A menudo pensamos que dedicar muchas horas a hacer deporte o ir al gimnasio nos 
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpu6biiq-d20rlejtw</odePageId>
+      <odePageId>page-mpvcb93d-l0ugt979j</odePageId>
       <odeBlockId>block-mps7hwjm-j2tr9iksi</odeBlockId>
       <blockName>Nuestras variables estadísticas</blockName>
       <iconName></iconName>
@@ -703,7 +703,7 @@ A menudo pensamos que dedicar muchas horas a hacer deporte o ir al gimnasio nos 
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biiq-d20rlejtw</odePageId>
+          <odePageId>page-mpvcb93d-l0ugt979j</odePageId>
           <odeBlockId>block-mps7hwjm-j2tr9iksi</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjm-rll6jwct2</odeIdeviceId>
           <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
@@ -752,7 +752,7 @@ A menudo pensamos que dedicar muchas horas a hacer deporte o ir al gimnasio nos 
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpu6biiq-d20rlejtw</odePageId>
+      <odePageId>page-mpvcb93d-l0ugt979j</odePageId>
       <odeBlockId>block-mps7hwjm-mp37hncy0</odeBlockId>
       <blockName>Nubes de puntos y correlación lineal</blockName>
       <iconName></iconName>
@@ -781,7 +781,7 @@ A menudo pensamos que dedicar muchas horas a hacer deporte o ir al gimnasio nos 
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biiq-d20rlejtw</odePageId>
+          <odePageId>page-mpvcb93d-l0ugt979j</odePageId>
           <odeBlockId>block-mps7hwjm-mp37hncy0</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjm-n5hnhax20</odeIdeviceId>
           <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
@@ -954,10 +954,10 @@ A menudo pensamos que dedicar muchas horas a hacer deporte o ir al gimnasio nos 
 </tr>
 <tr>
 <td style="width: 29.71%; text-align: center;">
-<p>La covarianza es prácticamente nula, lo que indica que no existe una relación lineal clara entre las variables: la altura y las horas de uso del móvil. Por sí sola no permite medir la intensidad de la relación, pero sí su dirección.</p>
+<p>La covarianza es prácticamente nula y positiva, lo que indica que no existe una relación lineal clara entre las variables: la altura y las horas de uso del móvil. Por sí sola no permite medir la intensidad de la relación, pero sí su dirección.</p>
 </td>
 <td style="width: 26.2241%; text-align: center;">
-<p>El valor de r muestra una correlación muy débil y negativa, lo que indica que no hay una relación lineal significativa entre ambas variables.</p>
+<p>El valor de r muestra una correlación muy débil, lo que indica que no hay una relación lineal significativa entre ambas variables.</p>
 </td>
 <td style="width: 22.1043%; text-align: center;">
 <p>La ecuación de regresión no resulta especialmente representativa, ya que los cambios en la altura apenas explican variaciones en el uso del móvil. Se trata de una relación sin capacidad predictiva relevante.</p>
@@ -990,7 +990,7 @@ A menudo pensamos que dedicar muchas horas a hacer deporte o ir al gimnasio nos 
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpu6biiq-d20rlejtw</odePageId>
+      <odePageId>page-mpvcb93d-l0ugt979j</odePageId>
       <odeBlockId>block-mps7hwjn-8ahdyg0gt</odeBlockId>
       <blockName>Calculamos y modelizamos nuestros datos</blockName>
       <iconName>think</iconName>
@@ -1019,7 +1019,7 @@ A menudo pensamos que dedicar muchas horas a hacer deporte o ir al gimnasio nos 
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biiq-d20rlejtw</odePageId>
+          <odePageId>page-mpvcb93d-l0ugt979j</odePageId>
           <odeBlockId>block-mps7hwjn-8ahdyg0gt</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjn-jmev7zxg2</odeIdeviceId>
           <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
@@ -1055,7 +1055,7 @@ A menudo pensamos que dedicar muchas horas a hacer deporte o ir al gimnasio nos 
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpu6biiq-d20rlejtw</odePageId>
+      <odePageId>page-mpvcb93d-l0ugt979j</odePageId>
       <odeBlockId>block-mps7hwjn-rw56hzxwz</odeBlockId>
       <blockName>Geogebra</blockName>
       <iconName></iconName>
@@ -1084,7 +1084,7 @@ A menudo pensamos que dedicar muchas horas a hacer deporte o ir al gimnasio nos 
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biiq-d20rlejtw</odePageId>
+          <odePageId>page-mpvcb93d-l0ugt979j</odePageId>
           <odeBlockId>block-mps7hwjn-rw56hzxwz</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjn-rsyktvx0q</odeIdeviceId>
           <odeIdeviceTypeName>geogebra-activity</odeIdeviceTypeName>
@@ -1110,7 +1110,7 @@ A menudo pensamos que dedicar muchas horas a hacer deporte o ir al gimnasio nos 
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpu6biiq-d20rlejtw</odePageId>
+      <odePageId>page-mpvcb93d-l0ugt979j</odePageId>
       <odeBlockId>block-mps7hwjn-xb34yor6h</odeBlockId>
       <blockName>Hacemos predicciones con nuestro modelo</blockName>
       <iconName>think</iconName>
@@ -1139,7 +1139,7 @@ A menudo pensamos que dedicar muchas horas a hacer deporte o ir al gimnasio nos 
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biiq-d20rlejtw</odePageId>
+          <odePageId>page-mpvcb93d-l0ugt979j</odePageId>
           <odeBlockId>block-mps7hwjn-xb34yor6h</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjn-r24cthtet</odeIdeviceId>
           <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
@@ -1173,7 +1173,7 @@ A menudo pensamos que dedicar muchas horas a hacer deporte o ir al gimnasio nos 
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpu6biiq-d20rlejtw</odePageId>
+      <odePageId>page-mpvcb93d-l0ugt979j</odePageId>
       <odeBlockId>block-mps7hwjn-bdv3lzkze</odeBlockId>
       <blockName>GeoGebra</blockName>
       <iconName></iconName>
@@ -1202,7 +1202,7 @@ A menudo pensamos que dedicar muchas horas a hacer deporte o ir al gimnasio nos 
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biiq-d20rlejtw</odePageId>
+          <odePageId>page-mpvcb93d-l0ugt979j</odePageId>
           <odeBlockId>block-mps7hwjn-bdv3lzkze</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjn-x6kamo8pg</odeIdeviceId>
           <odeIdeviceTypeName>geogebra-activity</odeIdeviceTypeName>
@@ -1228,7 +1228,7 @@ A menudo pensamos que dedicar muchas horas a hacer deporte o ir al gimnasio nos 
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpu6biiq-d20rlejtw</odePageId>
+      <odePageId>page-mpvcb93d-l0ugt979j</odePageId>
       <odeBlockId>block-mps7hwjn-8u1wera3e</odeBlockId>
       <blockName>Tomamos una decisión</blockName>
       <iconName>puzzle</iconName>
@@ -1257,7 +1257,7 @@ A menudo pensamos que dedicar muchas horas a hacer deporte o ir al gimnasio nos 
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biiq-d20rlejtw</odePageId>
+          <odePageId>page-mpvcb93d-l0ugt979j</odePageId>
           <odeBlockId>block-mps7hwjn-8u1wera3e</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjn-ghzvc3do0</odeIdeviceId>
           <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
@@ -1321,7 +1321,7 @@ A menudo pensamos que dedicar muchas horas a hacer deporte o ir al gimnasio nos 
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpu6biiq-d20rlejtw</odePageId>
+      <odePageId>page-mpvcb93d-l0ugt979j</odePageId>
       <odeBlockId>block-mps7hwjn-0qhrrittp</odeBlockId>
       <blockName>Glosario</blockName>
       <iconName></iconName>
@@ -1350,7 +1350,7 @@ A menudo pensamos que dedicar muchas horas a hacer deporte o ir al gimnasio nos 
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biiq-d20rlejtw</odePageId>
+          <odePageId>page-mpvcb93d-l0ugt979j</odePageId>
           <odeBlockId>block-mps7hwjn-0qhrrittp</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjn-t6uap0c3j</odeIdeviceId>
           <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
@@ -1443,7 +1443,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpu6biiq-d20rlejtw</odePageId>
+      <odePageId>page-mpvcb93d-l0ugt979j</odePageId>
       <odeBlockId>block-mps7hwjn-790yfx6is</odeBlockId>
       <blockName>Recursos y evaluación de los aprendizajes</blockName>
       <iconName></iconName>
@@ -1472,7 +1472,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biiq-d20rlejtw</odePageId>
+          <odePageId>page-mpvcb93d-l0ugt979j</odePageId>
           <odeBlockId>block-mps7hwjn-790yfx6is</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjn-omabmbeqd</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1480,7 +1480,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
     <div class="exe-fx exe-tabs">
 <h2>Recursos</h2>
 <ul>
-<li>Tabla material. Anexo II (<a title="Anexo II. Interpretación de parámetros estadísticos bidimensionales .odt [odt - 147014 B]" href="{{context_path}}/content/resources/Anexo II. Interpretación de parámetros estadísticos bidimensionales .odt">odt</a><span class="exe-link-data file-size">(odt - 147014 <abbr title="Bytes">B</abbr>)</span>/<a title="Anexo II. Interpretación de parámetros estadísticos bidimensionales .pdf [pdf - 267568 B]" href="{{context_path}}/content/resources/Anexo II. Interpretación de parámetros estadísticos bidimensionales .pdf">pdf</a><span class="exe-link-data file-size">(pdf - 267568 <abbr title="Bytes">B</abbr>)</span>) </li>
+<li>Tabla material. Anexo II (<a title="Anexo II. Interpretación de parámetros estadísticos bidimensionales .odt [odt - 147108 B]" href="{{context_path}}/content/resources/Anexo II. Interpretación de parámetros estadísticos bidimensionales _2.odt">odt</a><span class="exe-link-data file-size">(odt - 147108 <abbr title="Bytes">B</abbr>)</span>/<a title="Anexo II. Interpretación de parámetros estadísticos bidimensionales .pdf [pdf - 267517 B]" href="{{context_path}}/content/resources/Anexo II. Interpretación de parámetros estadísticos bidimensionales _2.pdf">pdf</a><span class="exe-link-data file-size">(pdf - 267517 <abbr title="Bytes">B</abbr>)</span>) </li>
 </ul>
 <h2>Productos evaluables</h2>
 <ul>
@@ -1496,7 +1496,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
 </ul>
  </div>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-mps7hwjn-omabmbeqd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-tabs\">\n<h2>Recursos</h2>\n<ul>\n<li>Tabla material. Anexo II (<a title=\"Anexo II. Interpretación de parámetros estadísticos bidimensionales .odt [odt - 147014 B]\" href=\"{{context_path}}/content/resources/Anexo II. Interpretación de parámetros estadísticos bidimensionales .odt\">odt</a><span class=\"exe-link-data file-size\">(odt - 147014 <abbr title=\"Bytes\">B</abbr>)</span>/<a title=\"Anexo II. Interpretación de parámetros estadísticos bidimensionales .pdf [pdf - 267568 B]\" href=\"{{context_path}}/content/resources/Anexo II. Interpretación de parámetros estadísticos bidimensionales .pdf\">pdf</a><span class=\"exe-link-data file-size\">(pdf - 267568 <abbr title=\"Bytes\">B</abbr>)</span>) </li>\n</ul>\n<h2>Productos evaluables</h2>\n<ul>\n<li>Planteamiento estadístico bidimensional del problema (identificación correcta de las variables X e Y).</li>\n<li>Cálculo del modelo de regresión (obtención de la recta de regresión) y los parámetros de correlación (r y R²) para los datos reales del equipo.</li>\n<li>Utilización autónoma del software informático o la calculadora científica para procesar la información y trazar diagramas de dispersión.</li>\n<li>Uso de la ecuación de la recta de regresión para realizar estimaciones puntuales lógicas.</li>\n<li>Decisión y conclusión final justificada acerca del tipo de relación que existe entre los hábitos estudiados, diferenciando claramente entre correlación y causalidad.</li>\n</ul>\n<h2>Instrumentos y técnicas de evaluación</h2>\n<ul>\n<li>Rúbrica. Actividad 2. Anexo III (<a title=\"Anexo III. Rúbrica de evaluación de la actividad 2.odt [odt - 91058 B]\" href=\"{{context_path}}/content/resources/Anexo III. Rúbrica de evaluación de la actividad 2.odt\">odt</a><span class=\"exe-link-data file-size\">(odt - 91058 <abbr title=\"Bytes\">B</abbr>)</span>/<a title=\"Anexo III. Rúbrica de evaluación de la actividad 2.pdf [pdf - 141896 B]\" href=\"{{context_path}}/content/resources/Anexo III. Rúbrica de evaluación de la actividad 2.pdf\">pdf</a><span class=\"exe-link-data file-size\">(pdf - 141896 <abbr title=\"Bytes\">B</abbr>)</span>)</li>\n</ul>\n </div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mps7hwjn-omabmbeqd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-tabs\">\n<h2>Recursos</h2>\n<ul>\n<li>Tabla material. Anexo II (<a title=\"Anexo II. Interpretación de parámetros estadísticos bidimensionales .odt [odt - 147108 B]\" href=\"{{context_path}}/content/resources/Anexo II. Interpretación de parámetros estadísticos bidimensionales _2.odt\">odt</a><span class=\"exe-link-data file-size\">(odt - 147108 <abbr title=\"Bytes\">B</abbr>)</span>/<a title=\"Anexo II. Interpretación de parámetros estadísticos bidimensionales .pdf [pdf - 267517 B]\" href=\"{{context_path}}/content/resources/Anexo II. Interpretación de parámetros estadísticos bidimensionales _2.pdf\">pdf</a><span class=\"exe-link-data file-size\">(pdf - 267517 <abbr title=\"Bytes\">B</abbr>)</span>) </li>\n</ul>\n<h2>Productos evaluables</h2>\n<ul>\n<li>Planteamiento estadístico bidimensional del problema (identificación correcta de las variables X e Y).</li>\n<li>Cálculo del modelo de regresión (obtención de la recta de regresión) y los parámetros de correlación (r y R²) para los datos reales del equipo.</li>\n<li>Utilización autónoma del software informático o la calculadora científica para procesar la información y trazar diagramas de dispersión.</li>\n<li>Uso de la ecuación de la recta de regresión para realizar estimaciones puntuales lógicas.</li>\n<li>Decisión y conclusión final justificada acerca del tipo de relación que existe entre los hábitos estudiados, diferenciando claramente entre correlación y causalidad.</li>\n</ul>\n<h2>Instrumentos y técnicas de evaluación</h2>\n<ul>\n<li>Rúbrica. Actividad 2. Anexo III (<a title=\"Anexo III. Rúbrica de evaluación de la actividad 2.odt [odt - 91058 B]\" href=\"{{context_path}}/content/resources/Anexo III. Rúbrica de evaluación de la actividad 2.odt\">odt</a><span class=\"exe-link-data file-size\">(odt - 91058 <abbr title=\"Bytes\">B</abbr>)</span>/<a title=\"Anexo III. Rúbrica de evaluación de la actividad 2.pdf [pdf - 141896 B]\" href=\"{{context_path}}/content/resources/Anexo III. Rúbrica de evaluación de la actividad 2.pdf\">pdf</a><span class=\"exe-link-data file-size\">(pdf - 141896 <abbr title=\"Bytes\">B</abbr>)</span>)</li>\n</ul>\n </div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>8</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1518,8 +1518,8 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpu6biis-lk3bpmgit</odePageId>
-  <odeParentPageId>page-mpu6biio-6ii4fg14v</odeParentPageId>
+  <odePageId>page-mpvcb93g-pgan4on9o</odePageId>
+  <odeParentPageId>page-mpvcb93b-z46xkby8f</odeParentPageId>
   <pageName>Analizando nuestras variables</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1554,7 +1554,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpu6biis-lk3bpmgit</odePageId>
+      <odePageId>page-mpvcb93g-pgan4on9o</odePageId>
       <odeBlockId>block-mps7hwjn-h8zusnmcl</odeBlockId>
       <blockName>Necesitamos interpretar nuestro modelo</blockName>
       <iconName></iconName>
@@ -1583,7 +1583,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biis-lk3bpmgit</odePageId>
+          <odePageId>page-mpvcb93g-pgan4on9o</odePageId>
           <odeBlockId>block-mps7hwjn-h8zusnmcl</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjn-3wc23c7wm</odeIdeviceId>
           <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
@@ -1616,7 +1616,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpu6biis-lk3bpmgit</odePageId>
+      <odePageId>page-mpvcb93g-pgan4on9o</odePageId>
       <odeBlockId>block-mps7hwjn-3qt1qyx86</odeBlockId>
       <blockName>Correlación no es Causalidad</blockName>
       <iconName></iconName>
@@ -1645,7 +1645,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biis-lk3bpmgit</odePageId>
+          <odePageId>page-mpvcb93g-pgan4on9o</odePageId>
           <odeBlockId>block-mps7hwjn-3qt1qyx86</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjn-h061inuyt</odeIdeviceId>
           <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
@@ -1677,7 +1677,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpu6biis-lk3bpmgit</odePageId>
+      <odePageId>page-mpvcb93g-pgan4on9o</odePageId>
       <odeBlockId>block-mps7hwjn-rggpzmb5e</odeBlockId>
       <blockName>¡Pasamos a la acción!</blockName>
       <iconName>list</iconName>
@@ -1706,7 +1706,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biis-lk3bpmgit</odePageId>
+          <odePageId>page-mpvcb93g-pgan4on9o</odePageId>
           <odeBlockId>block-mps7hwjn-rggpzmb5e</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjn-dcc2i68b5</odeIdeviceId>
           <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
@@ -1732,7 +1732,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpu6biis-lk3bpmgit</odePageId>
+      <odePageId>page-mpvcb93g-pgan4on9o</odePageId>
       <odeBlockId>block-mps7hwjn-jd1a35pyu</odeBlockId>
       <blockName></blockName>
       <iconName>interactive</iconName>
@@ -1761,7 +1761,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biis-lk3bpmgit</odePageId>
+          <odePageId>page-mpvcb93g-pgan4on9o</odePageId>
           <odeBlockId>block-mps7hwjn-jd1a35pyu</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjn-vhh7dc4ff</odeIdeviceId>
           <odeIdeviceTypeName>form</odeIdeviceTypeName>
@@ -1828,7 +1828,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpu6biis-lk3bpmgit</odePageId>
+      <odePageId>page-mpvcb93g-pgan4on9o</odePageId>
       <odeBlockId>block-mps7hwjn-jnlxl8sel</odeBlockId>
       <blockName>Añadimos variables ocultas</blockName>
       <iconName>stars</iconName>
@@ -1857,7 +1857,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biis-lk3bpmgit</odePageId>
+          <odePageId>page-mpvcb93g-pgan4on9o</odePageId>
           <odeBlockId>block-mps7hwjn-jnlxl8sel</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjn-bu197c2lb</odeIdeviceId>
           <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
@@ -1904,7 +1904,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpu6biis-lk3bpmgit</odePageId>
+      <odePageId>page-mpvcb93g-pgan4on9o</odePageId>
       <odeBlockId>block-mps7hwjo-cb5yz4pjs</odeBlockId>
       <blockName>Tomamos una decisión</blockName>
       <iconName>puzzle</iconName>
@@ -1933,7 +1933,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biis-lk3bpmgit</odePageId>
+          <odePageId>page-mpvcb93g-pgan4on9o</odePageId>
           <odeBlockId>block-mps7hwjo-cb5yz4pjs</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjo-xss2f04v2</odeIdeviceId>
           <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
@@ -2010,7 +2010,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpu6biis-lk3bpmgit</odePageId>
+      <odePageId>page-mpvcb93g-pgan4on9o</odePageId>
       <odeBlockId>block-mps7hwjo-ujrrq4pej</odeBlockId>
       <blockName>¡Practicamos lo aprendido!</blockName>
       <iconName>list</iconName>
@@ -2039,7 +2039,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biis-lk3bpmgit</odePageId>
+          <odePageId>page-mpvcb93g-pgan4on9o</odePageId>
           <odeBlockId>block-mps7hwjo-ujrrq4pej</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjo-ynknnbl01</odeIdeviceId>
           <odeIdeviceTypeName>quick-questions-multiple-choice</odeIdeviceTypeName>
@@ -2067,7 +2067,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpu6biis-lk3bpmgit</odePageId>
+      <odePageId>page-mpvcb93g-pgan4on9o</odePageId>
       <odeBlockId>block-mps7hwjo-qqwwlek34</odeBlockId>
       <blockName>Recursos y evaluación de los aprendizajes</blockName>
       <iconName></iconName>
@@ -2096,7 +2096,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biis-lk3bpmgit</odePageId>
+          <odePageId>page-mpvcb93g-pgan4on9o</odePageId>
           <odeBlockId>block-mps7hwjo-qqwwlek34</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjo-b3qu0g1o8</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2142,8 +2142,8 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpu6biiu-6eydezjjz</odePageId>
-  <odeParentPageId>page-mpu6biio-6ii4fg14v</odeParentPageId>
+  <odePageId>page-mpvcb93j-49obu1t8w</odePageId>
+  <odeParentPageId>page-mpvcb93b-z46xkby8f</odeParentPageId>
   <pageName>Nuestro informe estadístico</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -2178,7 +2178,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpu6biiu-6eydezjjz</odePageId>
+      <odePageId>page-mpvcb93j-49obu1t8w</odePageId>
       <odeBlockId>block-mps7hwjo-opphxp5lq</odeBlockId>
       <blockName>Presentación del proyecto</blockName>
       <iconName>presentation</iconName>
@@ -2207,7 +2207,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biiu-6eydezjjz</odePageId>
+          <odePageId>page-mpvcb93j-49obu1t8w</odePageId>
           <odeBlockId>block-mps7hwjo-opphxp5lq</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjo-m385uwzus</odeIdeviceId>
           <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
@@ -2247,7 +2247,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpu6biiu-6eydezjjz</odePageId>
+      <odePageId>page-mpvcb93j-49obu1t8w</odePageId>
       <odeBlockId>block-mps7hwjo-nol1lwuwd</odeBlockId>
       <blockName>Decisión final</blockName>
       <iconName>list</iconName>
@@ -2276,7 +2276,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biiu-6eydezjjz</odePageId>
+          <odePageId>page-mpvcb93j-49obu1t8w</odePageId>
           <odeBlockId>block-mps7hwjo-nol1lwuwd</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjo-n5dgop7w6</odeIdeviceId>
           <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
@@ -2306,7 +2306,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpu6biiu-6eydezjjz</odePageId>
+      <odePageId>page-mpvcb93j-49obu1t8w</odePageId>
       <odeBlockId>block-mps7hwjo-rhy8s75dn</odeBlockId>
       <blockName>Recursos y evaluación de los aprendizajes</blockName>
       <iconName></iconName>
@@ -2335,7 +2335,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biiu-6eydezjjz</odePageId>
+          <odePageId>page-mpvcb93j-49obu1t8w</odePageId>
           <odeBlockId>block-mps7hwjo-rhy8s75dn</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjo-tshi8y54w</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2377,7 +2377,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpu6biiu-rrcoyvpvx</odePageId>
+  <odePageId>page-mpvcb93j-im7opbypu</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Guía didáctica</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
@@ -2413,7 +2413,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpu6biiu-rrcoyvpvx</odePageId>
+      <odePageId>page-mpvcb93j-im7opbypu</odePageId>
       <odeBlockId>block-mps7hwjo-dcrs03159</odeBlockId>
       <blockName>Introducción</blockName>
       <iconName></iconName>
@@ -2442,7 +2442,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biiu-rrcoyvpvx</odePageId>
+          <odePageId>page-mpvcb93j-im7opbypu</odePageId>
           <odeBlockId>block-mps7hwjo-dcrs03159</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjo-gc0n1yffp</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2477,8 +2477,8 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpu6biiv-xcc0snqa7</odePageId>
-  <odeParentPageId>page-mpu6biiu-rrcoyvpvx</odeParentPageId>
+  <odePageId>page-mpvcb93k-gdfvzq787</odePageId>
+  <odeParentPageId>page-mpvcb93j-im7opbypu</odeParentPageId>
   <pageName>Datos identificativos</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -2513,7 +2513,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpu6biiv-xcc0snqa7</odePageId>
+      <odePageId>page-mpvcb93k-gdfvzq787</odePageId>
       <odeBlockId>block-mps7hwjo-t7nurvlrw</odeBlockId>
       <blockName>Datos identificativos</blockName>
       <iconName></iconName>
@@ -2542,7 +2542,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biiv-xcc0snqa7</odePageId>
+          <odePageId>page-mpvcb93k-gdfvzq787</odePageId>
           <odeBlockId>block-mps7hwjo-t7nurvlrw</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjo-9j7uera25</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2574,7 +2574,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpu6biiv-xcc0snqa7</odePageId>
+      <odePageId>page-mpvcb93k-gdfvzq787</odePageId>
       <odeBlockId>block-mps7hwjo-ufux2qrcp</odeBlockId>
       <blockName>Descripción y finalidad de los aprendizajes</blockName>
       <iconName></iconName>
@@ -2603,7 +2603,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biiv-xcc0snqa7</odePageId>
+          <odePageId>page-mpvcb93k-gdfvzq787</odePageId>
           <odeBlockId>block-mps7hwjo-ufux2qrcp</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjo-v2xznc4cz</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2643,7 +2643,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpu6biiv-xcc0snqa7</odePageId>
+      <odePageId>page-mpvcb93k-gdfvzq787</odePageId>
       <odeBlockId>block-mps7hwjo-0pjgxlop7</odeBlockId>
       <blockName>Temporalización</blockName>
       <iconName></iconName>
@@ -2672,7 +2672,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biiv-xcc0snqa7</odePageId>
+          <odePageId>page-mpvcb93k-gdfvzq787</odePageId>
           <odeBlockId>block-mps7hwjo-0pjgxlop7</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjo-vxxt5jyu3</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2700,8 +2700,8 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpu6biiv-kmw9tkl4k</odePageId>
-  <odeParentPageId>page-mpu6biiu-rrcoyvpvx</odeParentPageId>
+  <odePageId>page-mpvcb93k-d5ptxnsjn</odePageId>
+  <odeParentPageId>page-mpvcb93j-im7opbypu</odeParentPageId>
   <pageName>Conexión con los elementos curriculares</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -2736,7 +2736,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpu6biiv-kmw9tkl4k</odePageId>
+      <odePageId>page-mpvcb93k-d5ptxnsjn</odePageId>
       <odeBlockId>block-mps7hwjo-qmwqxug67</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -2765,7 +2765,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biiv-kmw9tkl4k</odePageId>
+          <odePageId>page-mpvcb93k-d5ptxnsjn</odePageId>
           <odeBlockId>block-mps7hwjo-qmwqxug67</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjo-ic5yyadu6</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2866,8 +2866,8 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpu6biiv-gt38j9dut</odePageId>
-  <odeParentPageId>page-mpu6biiu-rrcoyvpvx</odeParentPageId>
+  <odePageId>page-mpvcb93k-251c13sjj</odePageId>
+  <odeParentPageId>page-mpvcb93j-im7opbypu</odeParentPageId>
   <pageName>Metodología</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -2902,7 +2902,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpu6biiv-gt38j9dut</odePageId>
+      <odePageId>page-mpvcb93k-251c13sjj</odePageId>
       <odeBlockId>block-mps7hwjo-tb2a0u7rf</odeBlockId>
       <blockName></blockName>
       <iconName></iconName>
@@ -2931,7 +2931,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biiv-gt38j9dut</odePageId>
+          <odePageId>page-mpvcb93k-251c13sjj</odePageId>
           <odeBlockId>block-mps7hwjo-tb2a0u7rf</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjo-qjtlzom2s</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2966,8 +2966,8 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpu6biiw-pf6ml65cp</odePageId>
-  <odeParentPageId>page-mpu6biiu-rrcoyvpvx</odeParentPageId>
+  <odePageId>page-mpvcb93l-elkql09x6</odePageId>
+  <odeParentPageId>page-mpvcb93j-im7opbypu</odeParentPageId>
   <pageName>Desarrollo en el aula</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -3002,7 +3002,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpu6biiw-pf6ml65cp</odePageId>
+      <odePageId>page-mpvcb93l-elkql09x6</odePageId>
       <odeBlockId>block-mps7hwjo-djvlfo1re</odeBlockId>
       <blockName>Secuencia competencial</blockName>
       <iconName></iconName>
@@ -3031,7 +3031,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biiw-pf6ml65cp</odePageId>
+          <odePageId>page-mpvcb93l-elkql09x6</odePageId>
           <odeBlockId>block-mps7hwjo-djvlfo1re</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjo-tqc5cs6xq</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -3094,8 +3094,8 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpu6biiw-8p6zejpak</odePageId>
-  <odeParentPageId>page-mpu6biiu-rrcoyvpvx</odeParentPageId>
+  <odePageId>page-mpvcb93l-i1ca0lqdi</odePageId>
+  <odeParentPageId>page-mpvcb93j-im7opbypu</odeParentPageId>
   <pageName>Evaluación de la situación de aprendizaje</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -3130,7 +3130,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpu6biiw-8p6zejpak</odePageId>
+      <odePageId>page-mpvcb93l-i1ca0lqdi</odePageId>
       <odeBlockId>block-mps7hwjo-a569bvnvr</odeBlockId>
       <blockName>Indicadores de evaluación</blockName>
       <iconName></iconName>
@@ -3159,7 +3159,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biiw-8p6zejpak</odePageId>
+          <odePageId>page-mpvcb93l-i1ca0lqdi</odePageId>
           <odeBlockId>block-mps7hwjo-a569bvnvr</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjo-10opoud0b</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -3209,8 +3209,8 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpu6biix-07daoecvm</odePageId>
-  <odeParentPageId>page-mpu6biiu-rrcoyvpvx</odeParentPageId>
+  <odePageId>page-mpvcb93l-ov8nh9hef</odePageId>
+  <odeParentPageId>page-mpvcb93j-im7opbypu</odeParentPageId>
   <pageName>Anexos</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -3245,7 +3245,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpu6biix-07daoecvm</odePageId>
+      <odePageId>page-mpvcb93l-ov8nh9hef</odePageId>
       <odeBlockId>block-mps7hwjo-4qpkn4dt7</odeBlockId>
       <blockName>Anexos</blockName>
       <iconName></iconName>
@@ -3274,14 +3274,14 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biix-07daoecvm</odePageId>
+          <odePageId>page-mpvcb93l-ov8nh9hef</odePageId>
           <odeBlockId>block-mps7hwjo-4qpkn4dt7</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjo-75xdcho65</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <ul>
 <li>Lista de observación. Actividad 1. Anexo I. (<a href="{{context_path}}/content/resources/Anexo I. Lista de observación para el trabajo en grupo.odt" target="_blank" title="Ir a fichero [odt - 89781 B]" rel="noopener">odt</a><span class="exe-link-data file-size">(odt - 89781 <abbr title="Bytes">B</abbr>)</span> / <a href="{{context_path}}/content/resources/Anexo I. Lista de observación para el trabajo en grupo.pdf" target="_blank" title="Ir a pdf [pdf - 132660 B]" rel="noopener">pdf</a><span class="exe-link-data file-size">(pdf - 132660 <abbr title="Bytes">B</abbr>)</span>df)</li>
-<li>Tabla de materiales. Actividad 2. Anexo II. (<a href="{{context_path}}/content/resources/Anexo II. Interpretación de parámetros estadísticos bidimensionales .odt" target="_blank" title="Ir a fichero [odt - 147014 B]" rel="noopener">odt</a><span class="exe-link-data file-size">(odt - 147014 <abbr title="Bytes">B</abbr>)</span> / <a href="{{context_path}}/content/resources/Anexo II. Interpretación de parámetros estadísticos bidimensionales .pdf" target="_blank" title="Ir a pdf [pdf - 267568 B]" rel="noopener">pdf</a><span class="exe-link-data file-size">(pdf - 267568 <abbr title="Bytes">B</abbr>)</span>)</li>
+<li>Tabla de materiales. Actividad 2. Anexo II. (<a href="{{context_path}}/content/resources/Anexo II. Interpretación de parámetros estadísticos bidimensionales _2.odt" target="_blank" title="Ir a fichero [odt - 147108 B]" rel="noopener">odt</a><span class="exe-link-data file-size">(odt - 147108 <abbr title="Bytes">B</abbr>)</span> / <a href="{{context_path}}/content/resources/Anexo II. Interpretación de parámetros estadísticos bidimensionales _2.pdf" target="_blank" title="Ir a pdf [pdf - 267517 B]" rel="noopener">pdf</a><span class="exe-link-data file-size">(pdf - 267517 <abbr title="Bytes">B</abbr>)</span>)</li>
 <li>Rúbrica. Actividad 2. Anexo III. (<a href="{{context_path}}/content/resources/Anexo III. Rúbrica de evaluación de la actividad 2.odt" target="_blank" title="Ir a fichero [odt - 91058 B]" rel="noopener">odt</a><span class="exe-link-data file-size">(odt - 91058 <abbr title="Bytes">B</abbr>)</span> / <a href="{{context_path}}/content/resources/Anexo III. Rúbrica de evaluación de la actividad 2.pdf" target="_blank" title="Ir a pdf [pdf - 141896 B]" rel="noopener">pdf</a><span class="exe-link-data file-size">(pdf - 141896 <abbr title="Bytes">B</abbr>)</span>)</li>
 <li>Cuestionario. Actividad 3. Anexo IV. (<a title="Anexo IV. Cuestionario.odt [odt - 98564 B]" href="{{context_path}}/content/resources/Anexo IV. Cuestionario_1.odt">odt</a><span class="exe-link-data file-size">(odt - 98564 <abbr title="Bytes">B</abbr>)</span> / <a href="{{context_path}}/content/resources/Anexo IV. Cuestionario_1.pdf" target="_blank" title="Ir a pdf [pdf - 208960 B]" rel="noopener">pdf</a><span class="exe-link-data file-size">(pdf - 208960 <abbr title="Bytes">B</abbr>)</span>)</li>
 <li>Lista de verificación. Actividad 3. Anexo V. (<a href="{{context_path}}/content/resources/Anexo V. Lista de valoración de la actividad 3.odt" target="_blank" title="Ir a fichero [odt - 91356 B]" rel="noopener">odt</a><span class="exe-link-data file-size">(odt - 91356 <abbr title="Bytes">B</abbr>)</span> / <a href="{{context_path}}/content/resources/Anexo V. Lista de valoración de la actividad 3.pdf" target="_blank" title="Ir a pdf [pdf - 133175 B]" rel="noopener">pdf</a><span class="exe-link-data file-size">(pdf - 133175 <abbr title="Bytes">B</abbr>)</span>)</li>
@@ -3290,7 +3290,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
 </ul>
 <p><br /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-mps7hwjo-75xdcho65","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Lista de observación. Actividad 1. Anexo I. (<a href=\"{{context_path}}/content/resources/Anexo I. Lista de observación para el trabajo en grupo.odt\" target=\"_blank\" title=\"Ir a fichero [odt - 89781 B]\" rel=\"noopener\">odt</a><span class=\"exe-link-data file-size\">(odt - 89781 <abbr title=\"Bytes\">B</abbr>)</span> / <a href=\"{{context_path}}/content/resources/Anexo I. Lista de observación para el trabajo en grupo.pdf\" target=\"_blank\" title=\"Ir a pdf [pdf - 132660 B]\" rel=\"noopener\">pdf</a><span class=\"exe-link-data file-size\">(pdf - 132660 <abbr title=\"Bytes\">B</abbr>)</span>df)</li>\n<li>Tabla de materiales. Actividad 2. Anexo II. (<a href=\"{{context_path}}/content/resources/Anexo II. Interpretación de parámetros estadísticos bidimensionales .odt\" target=\"_blank\" title=\"Ir a fichero [odt - 147014 B]\" rel=\"noopener\">odt</a><span class=\"exe-link-data file-size\">(odt - 147014 <abbr title=\"Bytes\">B</abbr>)</span> / <a href=\"{{context_path}}/content/resources/Anexo II. Interpretación de parámetros estadísticos bidimensionales .pdf\" target=\"_blank\" title=\"Ir a pdf [pdf - 267568 B]\" rel=\"noopener\">pdf</a><span class=\"exe-link-data file-size\">(pdf - 267568 <abbr title=\"Bytes\">B</abbr>)</span>)</li>\n<li>Rúbrica. Actividad 2. Anexo III. (<a href=\"{{context_path}}/content/resources/Anexo III. Rúbrica de evaluación de la actividad 2.odt\" target=\"_blank\" title=\"Ir a fichero [odt - 91058 B]\" rel=\"noopener\">odt</a><span class=\"exe-link-data file-size\">(odt - 91058 <abbr title=\"Bytes\">B</abbr>)</span> / <a href=\"{{context_path}}/content/resources/Anexo III. Rúbrica de evaluación de la actividad 2.pdf\" target=\"_blank\" title=\"Ir a pdf [pdf - 141896 B]\" rel=\"noopener\">pdf</a><span class=\"exe-link-data file-size\">(pdf - 141896 <abbr title=\"Bytes\">B</abbr>)</span>)</li>\n<li>Cuestionario. Actividad 3. Anexo IV. (<a title=\"Anexo IV. Cuestionario.odt [odt - 98564 B]\" href=\"{{context_path}}/content/resources/Anexo IV. Cuestionario_1.odt\">odt</a><span class=\"exe-link-data file-size\">(odt - 98564 <abbr title=\"Bytes\">B</abbr>)</span> / <a href=\"{{context_path}}/content/resources/Anexo IV. Cuestionario_1.pdf\" target=\"_blank\" title=\"Ir a pdf [pdf - 208960 B]\" rel=\"noopener\">pdf</a><span class=\"exe-link-data file-size\">(pdf - 208960 <abbr title=\"Bytes\">B</abbr>)</span>)</li>\n<li>Lista de verificación. Actividad 3. Anexo V. (<a href=\"{{context_path}}/content/resources/Anexo V. Lista de valoración de la actividad 3.odt\" target=\"_blank\" title=\"Ir a fichero [odt - 91356 B]\" rel=\"noopener\">odt</a><span class=\"exe-link-data file-size\">(odt - 91356 <abbr title=\"Bytes\">B</abbr>)</span> / <a href=\"{{context_path}}/content/resources/Anexo V. Lista de valoración de la actividad 3.pdf\" target=\"_blank\" title=\"Ir a pdf [pdf - 133175 B]\" rel=\"noopener\">pdf</a><span class=\"exe-link-data file-size\">(pdf - 133175 <abbr title=\"Bytes\">B</abbr>)</span>)</li>\n<li>Rúbrica. Actividad 4. Anexo VI. (<a href=\"{{context_path}}/content/resources/Anexo VI. Rúbrica de evaluación de la presentación del proyecto final.odt\" target=\"_blank\" title=\"Ir a fichero [odt - 90928 B]\" rel=\"noopener\">odt</a><span class=\"exe-link-data file-size\">(odt - 90928 <abbr title=\"Bytes\">B</abbr>)</span> / <a href=\"{{context_path}}/content/resources/Anexo VI. Rúbrica de evaluación de la presentación del proyecto final.pdf\" target=\"_blank\" title=\"Ir a pf [pdf - 139172 B]\" rel=\"noopener\">pdf</a><span class=\"exe-link-data file-size\">(pdf - 139172 <abbr title=\"Bytes\">B</abbr>)</span>)</li>\n<li>Diana de coevaluación. Actividad 4. Anexo VII. (<a href=\"{{context_path}}/content/resources/Anexo VII. Herramienta de coevaluación del trabajo en equipo.pdf\" target=\"_blank\" title=\"Ir a pdf [pdf - 197094 B]\" rel=\"noopener\">pdf</a><span class=\"exe-link-data file-size\">(pdf - 197094 <abbr title=\"Bytes\">B</abbr>)</span>)</li>\n</ul>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mps7hwjo-75xdcho65","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Lista de observación. Actividad 1. Anexo I. (<a href=\"{{context_path}}/content/resources/Anexo I. Lista de observación para el trabajo en grupo.odt\" target=\"_blank\" title=\"Ir a fichero [odt - 89781 B]\" rel=\"noopener\">odt</a><span class=\"exe-link-data file-size\">(odt - 89781 <abbr title=\"Bytes\">B</abbr>)</span> / <a href=\"{{context_path}}/content/resources/Anexo I. Lista de observación para el trabajo en grupo.pdf\" target=\"_blank\" title=\"Ir a pdf [pdf - 132660 B]\" rel=\"noopener\">pdf</a><span class=\"exe-link-data file-size\">(pdf - 132660 <abbr title=\"Bytes\">B</abbr>)</span>df)</li>\n<li>Tabla de materiales. Actividad 2. Anexo II. (<a href=\"{{context_path}}/content/resources/Anexo II. Interpretación de parámetros estadísticos bidimensionales _2.odt\" target=\"_blank\" title=\"Ir a fichero [odt - 147108 B]\" rel=\"noopener\">odt</a><span class=\"exe-link-data file-size\">(odt - 147108 <abbr title=\"Bytes\">B</abbr>)</span> / <a href=\"{{context_path}}/content/resources/Anexo II. Interpretación de parámetros estadísticos bidimensionales _2.pdf\" target=\"_blank\" title=\"Ir a pdf [pdf - 267517 B]\" rel=\"noopener\">pdf</a><span class=\"exe-link-data file-size\">(pdf - 267517 <abbr title=\"Bytes\">B</abbr>)</span>)</li>\n<li>Rúbrica. Actividad 2. Anexo III. (<a href=\"{{context_path}}/content/resources/Anexo III. Rúbrica de evaluación de la actividad 2.odt\" target=\"_blank\" title=\"Ir a fichero [odt - 91058 B]\" rel=\"noopener\">odt</a><span class=\"exe-link-data file-size\">(odt - 91058 <abbr title=\"Bytes\">B</abbr>)</span> / <a href=\"{{context_path}}/content/resources/Anexo III. Rúbrica de evaluación de la actividad 2.pdf\" target=\"_blank\" title=\"Ir a pdf [pdf - 141896 B]\" rel=\"noopener\">pdf</a><span class=\"exe-link-data file-size\">(pdf - 141896 <abbr title=\"Bytes\">B</abbr>)</span>)</li>\n<li>Cuestionario. Actividad 3. Anexo IV. (<a title=\"Anexo IV. Cuestionario.odt [odt - 98564 B]\" href=\"{{context_path}}/content/resources/Anexo IV. Cuestionario_1.odt\">odt</a><span class=\"exe-link-data file-size\">(odt - 98564 <abbr title=\"Bytes\">B</abbr>)</span> / <a href=\"{{context_path}}/content/resources/Anexo IV. Cuestionario_1.pdf\" target=\"_blank\" title=\"Ir a pdf [pdf - 208960 B]\" rel=\"noopener\">pdf</a><span class=\"exe-link-data file-size\">(pdf - 208960 <abbr title=\"Bytes\">B</abbr>)</span>)</li>\n<li>Lista de verificación. Actividad 3. Anexo V. (<a href=\"{{context_path}}/content/resources/Anexo V. Lista de valoración de la actividad 3.odt\" target=\"_blank\" title=\"Ir a fichero [odt - 91356 B]\" rel=\"noopener\">odt</a><span class=\"exe-link-data file-size\">(odt - 91356 <abbr title=\"Bytes\">B</abbr>)</span> / <a href=\"{{context_path}}/content/resources/Anexo V. Lista de valoración de la actividad 3.pdf\" target=\"_blank\" title=\"Ir a pdf [pdf - 133175 B]\" rel=\"noopener\">pdf</a><span class=\"exe-link-data file-size\">(pdf - 133175 <abbr title=\"Bytes\">B</abbr>)</span>)</li>\n<li>Rúbrica. Actividad 4. Anexo VI. (<a href=\"{{context_path}}/content/resources/Anexo VI. Rúbrica de evaluación de la presentación del proyecto final.odt\" target=\"_blank\" title=\"Ir a fichero [odt - 90928 B]\" rel=\"noopener\">odt</a><span class=\"exe-link-data file-size\">(odt - 90928 <abbr title=\"Bytes\">B</abbr>)</span> / <a href=\"{{context_path}}/content/resources/Anexo VI. Rúbrica de evaluación de la presentación del proyecto final.pdf\" target=\"_blank\" title=\"Ir a pf [pdf - 139172 B]\" rel=\"noopener\">pdf</a><span class=\"exe-link-data file-size\">(pdf - 139172 <abbr title=\"Bytes\">B</abbr>)</span>)</li>\n<li>Diana de coevaluación. Actividad 4. Anexo VII. (<a href=\"{{context_path}}/content/resources/Anexo VII. Herramienta de coevaluación del trabajo en equipo.pdf\" target=\"_blank\" title=\"Ir a pdf [pdf - 197094 B]\" rel=\"noopener\">pdf</a><span class=\"exe-link-data file-size\">(pdf - 197094 <abbr title=\"Bytes\">B</abbr>)</span>)</li>\n</ul>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -3310,7 +3310,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpu6biix-07daoecvm</odePageId>
+      <odePageId>page-mpvcb93l-ov8nh9hef</odePageId>
       <odeBlockId>block-mps7hwjo-uupvq2cuj</odeBlockId>
       <blockName>Lista de observación. Actividad 1</blockName>
       <iconName></iconName>
@@ -3339,7 +3339,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biix-07daoecvm</odePageId>
+          <odePageId>page-mpvcb93l-ov8nh9hef</odePageId>
           <odeBlockId>block-mps7hwjo-uupvq2cuj</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjo-1zgzfpd3i</odeIdeviceId>
           <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
@@ -3364,7 +3364,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpu6biix-07daoecvm</odePageId>
+      <odePageId>page-mpvcb93l-ov8nh9hef</odePageId>
       <odeBlockId>block-mps7hwjp-34p4q3slz</odeBlockId>
       <blockName>Rúbrica. Actividad 2</blockName>
       <iconName></iconName>
@@ -3393,7 +3393,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biix-07daoecvm</odePageId>
+          <odePageId>page-mpvcb93l-ov8nh9hef</odePageId>
           <odeBlockId>block-mps7hwjp-34p4q3slz</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjp-h3yp8hdhi</odeIdeviceId>
           <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
@@ -3418,7 +3418,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpu6biix-07daoecvm</odePageId>
+      <odePageId>page-mpvcb93l-ov8nh9hef</odePageId>
       <odeBlockId>block-mps7hwjp-u2oxpscm2</odeBlockId>
       <blockName>Lista de valoración. Actividad 3</blockName>
       <iconName></iconName>
@@ -3447,7 +3447,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biix-07daoecvm</odePageId>
+          <odePageId>page-mpvcb93l-ov8nh9hef</odePageId>
           <odeBlockId>block-mps7hwjp-u2oxpscm2</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjp-uoex93bff</odeIdeviceId>
           <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
@@ -3472,7 +3472,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpu6biix-07daoecvm</odePageId>
+      <odePageId>page-mpvcb93l-ov8nh9hef</odePageId>
       <odeBlockId>block-mps7hwjp-ekrfkxwy2</odeBlockId>
       <blockName>Rúbrica. Actividad 4</blockName>
       <iconName></iconName>
@@ -3501,7 +3501,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biix-07daoecvm</odePageId>
+          <odePageId>page-mpvcb93l-ov8nh9hef</odePageId>
           <odeBlockId>block-mps7hwjp-ekrfkxwy2</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjp-a1151pa67</odeIdeviceId>
           <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
@@ -3528,7 +3528,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpu6biiy-958td8kid</odePageId>
+  <odePageId>page-mpvcb93m-wexjmbogy</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Créditos y descarga</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
@@ -3564,7 +3564,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpu6biiy-958td8kid</odePageId>
+      <odePageId>page-mpvcb93m-wexjmbogy</odePageId>
       <odeBlockId>block-mps7hwjp-oc3nrdt2o</odeBlockId>
       <blockName>Descargar archivo fuente</blockName>
       <iconName></iconName>
@@ -3593,7 +3593,7 @@ o \begin{equation}&nbsp;\boxed{ \displaystyle S_{xy} = \frac{ \sum f_i \cdot x_i
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpu6biiy-958td8kid</odePageId>
+          <odePageId>page-mpvcb93m-wexjmbogy</odePageId>
           <odeBlockId>block-mps7hwjp-oc3nrdt2o</odeBlockId>
           <odeIdeviceId>idevice-mps7hwjp-wgvkoj3ch</odeIdeviceId>
           <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
