@@ -213,6 +213,10 @@ window.__ELPX_MANIFEST__={
     "content/resources/Anexo VII. Herramienta de coevaluación del trabajo en equipo.odt",
     "content/resources/Anexo IV. Cuestionario_1.odt",
     "content/resources/Anexo IV. Cuestionario_1.pdf",
+    "content/resources/Anexo II. Interpretación de parámetros estadísticos bidimensionales _1.odt",
+    "content/resources/Anexo II. Interpretación de parámetros estadísticos bidimensionales _1.pdf",
+    "content/resources/Anexo II. Interpretación de parámetros estadísticos bidimensionales _2.odt",
+    "content/resources/Anexo II. Interpretación de parámetros estadísticos bidimensionales _2.pdf",
     "libs/elpx-manifest.js"
   ],
   "projectTitle": "Situación de aprendizaje TFM"
